@@ -4455,7 +4455,6 @@ footer.page-footer .footer-copyright {
 }
 
 .card .card-image .card-title {
-    color: #fff;
     position: absolute;
     bottom: 0;
     left: 0;
@@ -8139,4 +8138,10 @@ table {
 }
 .btn{
     background-image: url(/btn.gif);
+}
+.card-title{
+    color: black;
+}
+.na{
+    cursor: not-allowed;
 }
